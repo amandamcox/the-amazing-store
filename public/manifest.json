@@ -1,0 +1,15 @@
+{
+  "short_name": "Amazing Store",
+  "name": "The Amazing Store!",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#f8cb00",
+  "background_color": "#f8cb00"
+}
