@@ -3,7 +3,7 @@
 Browse *The Amazing Store*, the #1 store for Robots, Monsters, and Kittens (oh my!). 
 
 ## Working Demo
-TBD
+https://the-amazing-store.herokuapp.com/
 
 ## Features
 - Browse products by category
